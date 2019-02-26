@@ -1,2 +1,9 @@
 # BigBucks
 Initial repo for WS
+background on me and my journey with Scrum, it may paint a clearer picture of me.
+
+The first phase of my career was as a software developer where I worked with various technologies, VB, SQL Server, Lotus Notes, Web Design (HTML, javascript, PHP, XML, CSS, etc...). I then formed a small software consultancy to do full service develo for the clients I was working at such as Newsweek, McGraw-Hill and Verizon. I discovered Agile/Scrum methodology from a colleague and then began implementing mainly at my app development as Newsweek. It was very simple at first with just a basic scrum board with a backlog and slowly added more Scrum elements like daily standups and retrospectives.
+
+I then formed a new company that's goal was to create entertainment on multiple platforms and distribution points. We were successful in creating the first show to go from the internet to television with "I Bet You Will" that was sold to MTV. We later produced the Academy Award nominated documentary "Super Size Me". The web platform and web sites created for our company The Interactive Consortium was also developed with Agile/Scrum methodology, The "I Bet You Will" site alone would break a million hits a day. The tech there was Windows Server, Streaming Media (Real Player, Quicktime, etc...), ASP, JSP, HTML, SQL. I then got sucked into being a full time TV/Film producer/writer. However the last 3 years while I was developing content I decided to implement Agile/Scrum principles to creating content/pilots/films. Media production is such a wasteful and mismanaged process I tried to eliminate some of the headaches associated with the process.
+
+That being said,   I have decided the last year to get back to my Agile/Scrum journey. I took the past year off and devoted to learning the craft in classes and getting certified as a Scrum Master and as a Scrum@Scale practitioner. 
